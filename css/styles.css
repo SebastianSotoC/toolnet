@@ -1,0 +1,6 @@
+/*INICIO.PHP*/
+/*Poner en azul los caracteres del descuento*/
+.precioProducto strong#descuentoProducto {
+    color: #0381ff;
+  }
+  
